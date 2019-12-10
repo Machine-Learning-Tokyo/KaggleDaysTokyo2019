@@ -1,7 +1,7 @@
 ## Instructions for the workshop
 
 Welcome to the "Computer Vision with Keras" live coding workshop. In this workshop we will use Keras framework to approach the [APTOS 2019 Blindness Detection](https://www.kaggle.com/c/aptos2019-blindness-detection) competition.
-The code will mostly be written live and interactively. For better experience execute the following steps ~20' before the workshop:
+The code will be written by the speaker live and interactively. For better experience execute the following steps ~20' before the workshop:
 - start a new [Colab](https://colab.research.google.com/) session
 - Switch to GPU (Edit->Notebook settings -> Hardware accelerator -> GPU)
 - Copy the first cells of the [main notebook](https://github.com/Machine-Learning-Tokyo/KaggleDaysTokyo2019/blob/master/kaggleDays_v2.ipynb) to your new notebook (up to the one that imports tensorflow and keras)
